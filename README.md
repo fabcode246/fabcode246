@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 - [discord](https://discord.gg/wMGSCGsmrw)
 
 Pronouns: he/him
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/917239973344837663)](https://discord.com/users/917239973344837663)
