@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 Pronouns: he/him
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/589075528519122974)](https://discord.com/users/917239973344837663)
+[![Discord Presence](https://lanyard.cnrad.dev/api/917239973344837663)](https://discord.com/users/917239973344837663)
