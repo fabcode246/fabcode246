@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 Pronouns: he/him
 
-![Electro-Magnet45's Github Stats](https://github-readme-stats.vercel.app/api?username=Electro-Magnet45&show_icons=true&theme=bear)
+![Electro-Magnet45's Github Stats](https://github-readme-stats.vercel.app/api?username=fabcode246&show_icons=true&theme=bear)
