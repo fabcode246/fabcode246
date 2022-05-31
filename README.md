@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - python cli app making
 
 ### How to reach me:
-- [email](mail://fabserpm007@gmail.com)
+- [email](mailto:fabserpm007@gmail.com)
 - [discord](https://discord.gg/wMGSCGsmrw)
 
 Pronouns: he/him
