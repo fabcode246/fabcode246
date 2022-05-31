@@ -5,19 +5,18 @@
 Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on 
-[chess-by-py](https://github.com/fabcode246)\
-[]
+- [chess-by-py](https://github.com/fabcode246)
+- []
 []
 
 ### 🌱 I’m currently learning ...
-[]
-[]
-[]
+- lua
+- js
 
-### 🤔 I’m looking for help with ...
-[]
-[]
-[]
+### I can help with ...
+- python discord bot
+- lua basics
+- python cli app making
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
