@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 
 ### I’m currently working on:
-- [chess-by-py](https://github.com/fabcode246)
-- []
+- [chess-by-py](https://github.com/fabcode246/chess-by-py)
+- [FUI](https://github.com/fabcode246/FUI)
 []
 
 ### I’m currently learning:
