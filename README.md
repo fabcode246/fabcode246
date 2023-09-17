@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 ### I’m currently working on:
 - [chess-by-py](https://github.com/fabcode246/chess-by-py)
 - [FUI](https://github.com/fabcode246/FUI)
-[]
 
 ### I’m currently learning:
-- lua
-- js
+- rust
+- js(paused)
 
 ### I can help with:
 - python discord bot
@@ -24,4 +23,4 @@ Here are some ideas to get you started:
 
 Pronouns: he/him
 
-![Electro-Magnet45's Github Stats](https://github-readme-stats.vercel.app/api?username=fabcode246&show_icons=true&theme=bear)
+[FabCode's Github Stats](https://github-readme-stats.vercel.app/api?username=fabcode246&show_icons=true&theme=bear)
