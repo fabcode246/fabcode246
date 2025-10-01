@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - [FUI](https://github.com/fabcode246/FUI)
 
 ### I’m currently learning:
-- rust
+- rust(paused)
 - js(paused)
 
 ### I can help with:
@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - python cli app making
 
 ### How to reach me:
-- [email](mailto:fabserpm007@gmail.com)
-- [discord](https://discord.gg/wMGSCGsmrw)
+- [email](mailto:grandiomasterum@gmail.com)
 
 Pronouns: he/him
 
