@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+### Im Fab, a beginner developer who's open to learn and explore
+
 [//]: <**fabcode246/fabcode246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 Here are some ideas to get you started:
 
 ### I’m currently working on:
-- [chess-by-py](https://github.com/fabcode246/chess-by-py)
-- [FUI](https://github.com/fabcode246/FUI)
+- [Ntree](https://github.com/fabcode246/ntree)
+//- [](https://github.com/fabcode246/FUI)
 
 ### I’m currently learning:
 - rust(paused)
