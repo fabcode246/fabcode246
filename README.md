@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - [email](mailto:grandiomasterum@gmail.com)
 
 Pronouns: he/him
-
-[FabCode's Github Stats](https://github-readme-stats.vercel.app/api?username=fabcode246&show_icons=true&theme=bear)
