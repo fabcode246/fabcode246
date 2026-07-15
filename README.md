@@ -7,8 +7,10 @@
 Here are some ideas to get you started:
 
 ### I’m currently working on:
-- [Ntree](https://github.com/fabcode246/ntree)
-//- [](https://github.com/fabcode246/FUI)
+[MuzeBoy](https://github.com/fabcode246/MuzeBoy)
+// - [Ntree](https://github.com/fabcode246/ntree)
+// - [](https://github.com/fabcode246/FUI)
+
 
 ### I’m currently learning:
 - rust(paused)
